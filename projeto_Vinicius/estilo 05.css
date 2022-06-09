@@ -1,0 +1,58 @@
+@charset "UTF-8";
+body {
+    background-image: url("https://img.quizur.com/f/img5c59f25f7bdd11.10814929.jpg?lastEdited=1549398632");
+    background-repeat: no repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color:brown;
+    font-family:'Times New Roman', Times, serif;
+    background-color:bisque;
+    
+}
+
+h2 {
+    background-color:cornsilk;
+    color:crimson;
+    font-family:"Times New Roman", Times, serif;
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+footer {
+    color: #333333;
+    font-style:italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sc1 {
+    border-style: solid;
+    border-color:orange;
+    background-color:gold;
+    
+}
+
+.sc2 {
+    border-style: solid;
+    border-color:olivedrab;
+    background-color:darksalmon;
+}
+
+.sc3 {
+    border-style: solid;
+    border-color: blue;
+    background-color:darkolivegreen;
+}
+
+.oii {
+    color:black;
+}
+
+.vini {
+    border-style: solid;
+    border-color: white;
+}
+

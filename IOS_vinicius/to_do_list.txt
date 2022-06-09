@@ -1,0 +1,3 @@
+TODO 01: Criar minha página na internet
+TODO 02: registrar um dominio .com.br para hospedar meu site 
+TODO 03: eSTUDAR html 
